@@ -4,7 +4,7 @@ public class EmpVO {
 	private String job;
 	private Date hiredate;
 	private Double sal;
-	private Double comm;
+	private Double com;
 	private Integer deptno;
 	
 	public Integer getEmpno() {
