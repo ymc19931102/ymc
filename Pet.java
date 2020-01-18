@@ -7,6 +7,7 @@ public class EmpVO {
 	private Double comm;
 	private Integer deptno;
 	private int aaa;
+	private double ccc;
 	
 	public Integer getEmpno() {
 		return empno;
